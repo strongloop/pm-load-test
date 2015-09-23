@@ -1,0 +1,19 @@
+{
+  "name": "pm-load-test",
+  "version": "1.0.0",
+  "description": "Looks like a really busy app to a process manager",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/strongloop/pm-load-test.git"
+  },
+  "author": "Ryan Graham <ryan@strongloop.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strongloop/pm-load-test/issues"
+  },
+  "homepage": "https://github.com/strongloop/pm-load-test#readme"
+}
