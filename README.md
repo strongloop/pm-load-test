@@ -6,6 +6,6 @@ the process manager that is running this app.
 
 This is done in the form of:
  - random exits
- - high frequency log messages
+ - high frequency logging
+ - high volume logging
  - random delays
- - randomly blocking the event loop
