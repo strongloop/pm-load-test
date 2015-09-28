@@ -4,7 +4,7 @@
   "description": "Looks like a really busy app to a process manager",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint server.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
     "express": "^4.13.3",
     "lodash": "^3.10.1",
     "node-uuid": "^1.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^1.5.1"
   }
 }
