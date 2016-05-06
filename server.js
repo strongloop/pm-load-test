@@ -1,3 +1,8 @@
+// Copyright IBM Corp. 2015. All Rights Reserved.
+// Node module: pm-load-test
+// This file is licensed under the MIT License.
+// License text available at https://opensource.org/licenses/MIT
+
 var _ = require('lodash');
 var concat = require('concat-stream');
 var express = require('express');
